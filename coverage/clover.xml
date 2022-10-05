@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664929239915" clover="3.2.0">
+  <project timestamp="1664929239915" name="All files">
+    <metrics statements="20" coveredstatements="17" conditionals="6" coveredconditionals="1" methods="8" coveredmethods="7" elements="34" coveredelements="25" complexity="0" loc="20" ncloc="20" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\cesarvalencia\Desktop\Testing-Practice\calculator.js">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\cesarvalencia\Desktop\Testing-Practice\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="reversestring.js" path="C:\Users\cesarvalencia\Desktop\Testing-Practice\reversestring.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="stringlength.js" path="C:\Users\cesarvalencia\Desktop\Testing-Practice\stringlength.js">
+      <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
