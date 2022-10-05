@@ -1,14 +1,15 @@
-const stringLength = require('./stringlength');
-const reverseString = require('./reversestring');
-const calculator = require('./calculator')
-const  capitalize = require('./capitalize');
+const stringLength = require('./modules/stringlength');
+const reverseString = require('./modules/reversestring');
+const capitalize = require('./modules/capitalize');
+const calculator = require('./modules/calculator')
+
 
 test('alfa to equal 4', () => {
     expect(stringLength('alfa')).toBe(4);
 });
 
 test('valenciaguilar throws error', () => {
-    expect(stringLength('valenciaguilar')).error;
+    expect(stringLength('italoionkan')).error;
 });
 
 test('the hello of reverse is olleh', () => {
